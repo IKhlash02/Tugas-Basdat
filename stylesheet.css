@@ -1,0 +1,11 @@
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(image/image1.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
